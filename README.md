@@ -1,1 +1,1 @@
-# This repository contains deep learning where are implemented using Tensorflow
+# This repository contains basic to intermediate deep learning based codes which are implemented using Tensorflow
